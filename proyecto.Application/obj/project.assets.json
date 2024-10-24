@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "proyecto.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/proyecto.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/proyecto.Domain.dll": {}
+        }
+      },
+      "proyecto.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "proyecto.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/proyecto.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/proyecto.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "proyecto.Domain/1.0.0": {
+      "type": "project",
+      "path": "../proyecto.Domain/proyecto.Domain.csproj",
+      "msbuildProject": "../proyecto.Domain/proyecto.Domain.csproj"
+    },
+    "proyecto.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../proyecto.Infrastructure/proyecto.Infrastructure.csproj",
+      "msbuildProject": "../proyecto.Infrastructure/proyecto.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "proyecto.Domain >= 1.0.0",
+      "proyecto.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/rafaelaybar/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Application/proyecto.Application.csproj",
+      "projectName": "proyecto.Application",
+      "projectPath": "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Application/proyecto.Application.csproj",
+      "packagesPath": "/Users/rafaelaybar/.nuget/packages/",
+      "outputPath": "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/rafaelaybar/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Domain/proyecto.Domain.csproj": {
+              "projectPath": "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Domain/proyecto.Domain.csproj"
+            },
+            "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Infrastructure/proyecto.Infrastructure.csproj": {
+              "projectPath": "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Infrastructure/proyecto.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
