@@ -1,8 +1,21 @@
 using Microsoft.AspNetCore.Mvc;
 using Proyecto.Application.Services;
+using Proyecto.Domain.Entities;
 
 public class EntradasController : Controller
     {
+
+        public IActionResult Reporte()
+        {
+            var entradas = _entradaService.ObtenerTodasLasEntradas();
+            if (entradas == null || !entradas.Any())
+            {
+                ViewData["Mensaje"] = "No se encontraron entradas.";
+                entradas = Enumerable.Empty<Entrada>();
+            }
+            return View(entradas);
+        }
+        
         private readonly EntradaService _entradaService;
         private readonly ProyeccionService _proyeccionService;
         private readonly UsuarioService _usuarioService;

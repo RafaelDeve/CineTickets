@@ -1,0 +1,30 @@
+@model IEnumerable<Proyecto.Domain.Entities.Entrada>
+@{
+    ViewData["Title"] = "Reporte de Entradas";
+}
+
+<h1>Reporte de Entradas</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Película</th>
+            <th>Fecha y Hora de Proyección</th>
+            <th>Número de Asiento</th>
+            <th>Precio</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var entrada in Model)
+        {
+            <tr>
+                <td>@entrada.Proyeccion.Pelicula.Titulo</td>
+                <td>@entrada.Proyeccion.FechaHora</td>
+                <td>@entrada.NumeroAsiento</td>
+                <td>@entrada.Precio</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h3>Total Recaudado: @Model.Sum(e => e.Precio)</h3>

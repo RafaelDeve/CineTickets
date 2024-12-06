@@ -39,43 +39,23 @@ public class PeliculasController : Controller
             return View(pelicula);
         }
 
-         public IActionResult Crear()
+    
+        public IActionResult Crear()
         {
-            var pelicula = new Pelicula
-            {
-                Titulo = string.Empty,
-                Descripcion = string.Empty,
-                Genero = string.Empty,
-                Duracion = TimeSpan.Zero,
-                Proyecciones = new List<Proyeccion>()
-            };
-            return View(pelicula);
+            return View();
         }
 
         [HttpPost]
-public IActionResult Crear(Pelicula pelicula)
-{
-    if (ModelState.IsValid)
-    {
-        if (string.IsNullOrWhiteSpace(pelicula.Titulo) || string.IsNullOrWhiteSpace(pelicula.Descripcion) || string.IsNullOrWhiteSpace(pelicula.Genero) || pelicula.Duracion == TimeSpan.Zero)
+        public IActionResult Crear(Pelicula pelicula)
         {
-            ModelState.AddModelError("DatosInvalidos", "Todos los campos requeridos deben tener valores válidos.");
+            if (ModelState.IsValid)
+            {
+                _peliculaService.AgregarPelicula(pelicula);
+                return RedirectToAction("Index");
+            }
             return View(pelicula);
         }
-        try
-        {
-            pelicula.Proyecciones = new List<Proyeccion>(); // Inicializamos Proyecciones como una lista vacía para evitar el warning
-            _peliculaService.AgregarPelicula(pelicula);
-            return RedirectToAction("Index");
-        }
-        catch (Exception ex)
-        {
-            ModelState.AddModelError("Error", "Ocurrió un error al agregar la película: " + ex.Message);
-        }
-    }
-    return View(pelicula);
-}
-
+        
         public IActionResult Editar(int id)
         {
             var pelicula = _peliculaService.ObtenerPeliculaPorId(id);

@@ -4,6 +4,8 @@ namespace Proyecto.Domain.Repositories
     public interface IEntradaRepository
     {
         Entrada? ObtenerEntradaPorId(int entradaId);
+        
+        IEnumerable<Entrada> ObtenerTodas();
         IEnumerable<Entrada> ObtenerEntradasPorUsuario(int usuarioId);
         void AgregarEntrada(Entrada entrada);
         void ActualizarEntrada(Entrada entrada);
