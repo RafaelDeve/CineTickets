@@ -1,0 +1,15 @@
+@model IEnumerable<Proyecto.Domain.Entities.Proyeccion>
+@{
+    ViewData["Title"] = "Proyecciones Disponibles";
+}
+
+<h1>Proyecciones Disponibles</h1>
+
+<ul>
+    @foreach (var proyeccion in Model)
+    {
+        <li>
+            <a href="/Entradas/Comprar?proyeccionId=@proyeccion.ProyeccionId">@proyeccion.FechaHora - Sala: @proyeccion.Sala</a>
+        </li>
+    }
+</ul>

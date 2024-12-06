@@ -1,0 +1,42 @@
+@model Proyecto.Domain.Entities.Pelicula
+@{
+    ViewData["Title"] = "Crear Película";
+}
+
+<h1>Crear Nueva Película</h1>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
+
+<form method="post">
+    <div class="form-group">
+        <label for="Titulo">Título</label>
+        <input type="text" id="Titulo" name="Titulo" class="form-control" value="@Model.Titulo" required />
+    </div>
+    <div class="form-group">
+        <label for="Descripcion">Descripción</label>
+        <input type="text" id="Descripcion" name="Descripcion" class="form-control" value="@Model.Descripcion" required />
+    </div>
+    <div class="form-group">
+        <label for="Genero">Género</label>
+        <input type="text" id="Genero" name="Genero" class="form-control" value="@Model.Genero" required />
+    </div>
+    <div class="form-group">
+        <label for="Duracion">Duración (en minutos)</label>
+        <input type="number" id="Duracion" name="Duracion" class="form-control" value="@Model.Duracion.TotalMinutes" required />
+    </div>
+    <div class="form-group">
+        <label for="FechaEstreno">Fecha de Estreno</label>
+        <input type="date" id="FechaEstreno" name="FechaEstreno" class="form-control" value="@Model.FechaEstreno.ToString("yyyy-MM-dd")" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Crear</button>
+</form>

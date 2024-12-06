@@ -15,3 +15,4 @@
 /Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Application/obj/Debug/net8.0/refint/proyecto.Application.dll
 /Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Application/obj/Debug/net8.0/proyecto.Application.pdb
 /Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Application/obj/Debug/net8.0/ref/proyecto.Application.dll
+/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Application/obj/Debug/net8.0/proyecto.Application.sourcelink.json

@@ -1,0 +1,10 @@
+@model Proyecto.Domain.Entities.Pelicula
+@{
+    ViewData["Title"] = "Detalle de Película";
+}
+
+<h1>@Model.Titulo</h1>
+<p>@Model.Descripcion</p>
+<p>Duración: @Model.Duracion</p>
+<a href="/Peliculas/Proyecciones?peliculaId=@Model.PeliculaId">Ver Proyecciones</a>
+

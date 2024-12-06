@@ -1,0 +1,24 @@
+@model IEnumerable<Proyecto.Domain.Entities.Pelicula>
+
+@{
+    ViewData["Title"] = "Películas";
+}
+
+<h1>Películas Disponibles</h1>
+
+@if (Model == null || !Model.Any())
+{
+    <p>No hay películas disponibles en este momento.</p>
+}
+else
+{
+    <ul>
+        @foreach (var pelicula in Model)
+        {
+            <li>
+                <a href="/Peliculas/Detalle/@pelicula.PeliculaId">@pelicula.Titulo</a>
+            </li>
+        }
+    </ul>
+}
+<a href="/Peliculas/Crear">Agregar Nueva Película</a>
