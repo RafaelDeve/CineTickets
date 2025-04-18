@@ -18,6 +18,13 @@ namespace proyecto.Infrastructure.Persistence
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Entrada>()
+                .Property(e => e.Precio)
+                .HasPrecision(10, 2);
+
+            modelBuilder.Entity<Pago>()
+                .Property(p => p.Monto)
+                .HasPrecision(10, 2);
             // Configuraciones adicionales si es necesario
         }
     }

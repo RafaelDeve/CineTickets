@@ -39,42 +39,43 @@ public class PeliculasController : Controller
             return View(pelicula);
         }
 
-         public IActionResult Crear()
+        public IActionResult Crear()
         {
             var pelicula = new Pelicula
             {
                 Titulo = string.Empty,
                 Descripcion = string.Empty,
                 Genero = string.Empty,
-                Duracion = TimeSpan.Zero,
+                Duracion = TimeSpan.MaxValue,
                 Proyecciones = new List<Proyeccion>()
             };
             return View(pelicula);
         }
 
         [HttpPost]
-public IActionResult Crear(Pelicula pelicula)
-{
-    if (ModelState.IsValid)
-    {
-        if (string.IsNullOrWhiteSpace(pelicula.Titulo) || string.IsNullOrWhiteSpace(pelicula.Descripcion) || string.IsNullOrWhiteSpace(pelicula.Genero) || pelicula.Duracion == TimeSpan.Zero)
+        public IActionResult Crear(Pelicula pelicula)
         {
-            ModelState.AddModelError("DatosInvalidos", "Todos los campos requeridos deben tener valores válidos.");
+            if (ModelState.IsValid)
+            {
+                if (string.IsNullOrWhiteSpace(pelicula.Titulo) || string.IsNullOrWhiteSpace(pelicula.Descripcion) || string.IsNullOrWhiteSpace(pelicula.Genero) || pelicula.Duracion == TimeSpan.Zero)
+                {
+                    ModelState.AddModelError("DatosInvalidos", "Todos los campos requeridos deben tener valores válidos.");
+                    return View(pelicula);
+                }
+                try
+                {
+                    pelicula.Proyecciones = new List<Proyeccion>(); // Inicializamos Proyecciones como una lista vacía para evitar el warning
+                    _peliculaService.AgregarPelicula(pelicula);
+                    return RedirectToAction("Index");
+                }
+               catch (Exception ex)
+                {
+                    ModelState.AddModelError("Error", $"Ocurrió un error al agregar la película: {ex.Message} | Inner Exception: {ex.InnerException?.Message}");
+                }
+
+            }
             return View(pelicula);
         }
-        try
-        {
-            pelicula.Proyecciones = new List<Proyeccion>(); // Inicializamos Proyecciones como una lista vacía para evitar el warning
-            _peliculaService.AgregarPelicula(pelicula);
-            return RedirectToAction("Index");
-        }
-        catch (Exception ex)
-        {
-            ModelState.AddModelError("Error", "Ocurrió un error al agregar la película: " + ex.Message);
-        }
-    }
-    return View(pelicula);
-}
 
         public IActionResult Editar(int id)
         {

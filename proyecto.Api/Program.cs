@@ -8,9 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Configurar el contexto de base de datos
-builder.Services.AddDbContext<CineDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("CineDbConnection")));
-
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("Data Source=cine.db")));
 // Agregar servicios de autenticación y autorización
 builder.Services.AddAuthorization();
 

@@ -25,7 +25,7 @@ namespace Proyecto.Web
         {
             // Configurar el DbContext con SQL Server
             services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString("CineDbConnection")));
+                options.UseSqlite(Configuration.GetConnectionString("CineDbConnection")));
 
             // Registrar los servicios de aplicación y repositorios
             services.AddScoped<IUsuarioRepository, UsuarioRepository>();

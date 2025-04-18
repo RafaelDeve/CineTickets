@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Domain/proyecto.Domain.csproj",
+      "projectUniqueName": "/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Domain/proyecto.Domain.csproj",
       "projectName": "proyecto.Domain",
-      "projectPath": "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Domain/proyecto.Domain.csproj",
+      "projectPath": "/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Domain/proyecto.Domain.csproj",
       "packagesPath": "/Users/rafaelaybar/.nuget/packages/",
-      "outputPath": "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Domain/obj/",
+      "outputPath": "/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rafaelaybar/.nuget/NuGet/NuGet.Config"

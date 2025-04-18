@@ -174,3 +174,627 @@
 /Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/appsettings.Development.json
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/appsettings.json
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/proyecto.Api
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/proyecto.Api.deps.json
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/proyecto.Api.runtimeconfig.json
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/proyecto.Api.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/proyecto.Api.pdb
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Azure.Core.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Azure.Identity.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Humanizer.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.ClientModel.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.CodeDom.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Formats.Asn1.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Text.Json.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/proyecto.Application.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/proyecto.Domain.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/proyecto.Application.pdb
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/proyecto.Domain.pdb
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/bin/Debug/net8.0/proyecto.Infrastructure.pdb
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/proyecto.Api.csproj.AssemblyReference.cache
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/proyecto.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/proyecto.Api.AssemblyInfoInputs.cache
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/proyecto.Api.AssemblyInfo.cs
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/proyecto.Api.csproj.CoreCompileInputs.cache
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/proyecto.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/proyecto.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/proyecto.Api.sourcelink.json
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/staticwebassets.build.json
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/staticwebassets.development.json
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/staticwebassets/msbuild.proyecto.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.proyecto.Api.props
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.proyecto.Api.props
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.proyecto.Api.props
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/scopedcss/bundle/proyecto.Api.styles.css
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/proyecto.AC5D035B.Up2Date
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/proyecto.Api.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/refint/proyecto.Api.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/proyecto.Api.pdb
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/proyecto.Api.genruntimeconfig.cache
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Api/obj/Debug/net8.0/ref/proyecto.Api.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/appsettings.Development.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/appsettings.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/proyecto.Api
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/proyecto.Api.deps.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/proyecto.Api.runtimeconfig.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/proyecto.Api.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/proyecto.Api.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Azure.Core.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Azure.Identity.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Humanizer.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.ClientModel.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.CodeDom.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Formats.Asn1.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Text.Json.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/proyecto.Application.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/proyecto.Domain.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/proyecto.Application.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/proyecto.Domain.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/bin/Debug/net8.0/proyecto.Infrastructure.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/proyecto.Api.csproj.AssemblyReference.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/proyecto.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/proyecto.Api.AssemblyInfoInputs.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/proyecto.Api.AssemblyInfo.cs
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/proyecto.Api.csproj.CoreCompileInputs.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/proyecto.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/proyecto.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/proyecto.Api.sourcelink.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/staticwebassets.build.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/staticwebassets.development.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/staticwebassets/msbuild.proyecto.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.proyecto.Api.props
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.proyecto.Api.props
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.proyecto.Api.props
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/scopedcss/bundle/proyecto.Api.styles.css
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/proyecto.AC5D035B.Up2Date
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/proyecto.Api.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/refint/proyecto.Api.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/proyecto.Api.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/proyecto.Api.genruntimeconfig.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Api/obj/Debug/net8.0/ref/proyecto.Api.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/appsettings.Development.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/appsettings.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/proyecto.Api
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/proyecto.Api.deps.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/proyecto.Api.runtimeconfig.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/proyecto.Api.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/proyecto.Api.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Azure.Core.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Azure.Identity.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Humanizer.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.ClientModel.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.CodeDom.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Formats.Asn1.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Text.Json.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/proyecto.Application.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/proyecto.Domain.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/proyecto.Application.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/proyecto.Domain.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/bin/Debug/net8.0/proyecto.Infrastructure.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/proyecto.Api.csproj.AssemblyReference.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/proyecto.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/proyecto.Api.AssemblyInfoInputs.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/proyecto.Api.AssemblyInfo.cs
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/proyecto.Api.csproj.CoreCompileInputs.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/proyecto.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/proyecto.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/proyecto.Api.sourcelink.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/staticwebassets.build.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/staticwebassets.development.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/staticwebassets/msbuild.proyecto.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.proyecto.Api.props
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.proyecto.Api.props
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.proyecto.Api.props
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/scopedcss/bundle/proyecto.Api.styles.css
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/proyecto.AC5D035B.Up2Date
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/proyecto.Api.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/refint/proyecto.Api.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/proyecto.Api.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/proyecto.Api.genruntimeconfig.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Api/obj/Debug/net8.0/ref/proyecto.Api.dll

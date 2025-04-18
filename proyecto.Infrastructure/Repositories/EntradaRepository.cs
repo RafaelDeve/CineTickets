@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using proyecto.Infrastructure.Persistence;
 using Proyecto.Domain.Entities;
 using Proyecto.Domain.Repositories;
@@ -14,7 +15,7 @@ namespace Proyecto.Infrastructure.Repositories
         {
             _context = context;
         }
-
+        
         public Entrada? ObtenerEntradaPorId(int entradaId)
         {
             return _context.Entradas.Find(entradaId);
@@ -45,6 +46,11 @@ namespace Proyecto.Infrastructure.Repositories
                 _context.Entradas.Remove(entrada);
                 _context.SaveChanges();
             }
+        }
+
+        public IEnumerable<Entrada> ObtenerTodas()
+        {
+            return _context.Entradas.Include(e => e.Proyeccion).ThenInclude(p => p.Pelicula).ToList();
         }
     }
 }

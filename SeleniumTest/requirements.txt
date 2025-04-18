@@ -1,0 +1,4 @@
+selenium>=4.12.0     # Selenium Manager incluido
+pytest>=7.4
+pytest-html>=3.2
+

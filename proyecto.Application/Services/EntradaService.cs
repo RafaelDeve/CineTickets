@@ -18,6 +18,10 @@ namespace Proyecto.Application.Services
             _usuarioRepository = usuarioRepository;
         }
 
+        public IEnumerable<Entrada> ObtenerTodasLasEntradas()
+        {
+        return _entradaRepository.ObtenerTodas();
+        }
         public Entrada? ObtenerEntradaPorId(int entradaId)
         {
             return _entradaRepository.ObtenerEntradaPorId(entradaId);

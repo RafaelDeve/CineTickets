@@ -3,8 +3,15 @@
 @{
     ViewData["Title"] = "Películas";
 }
-
-<h1>Películas Disponibles</h1>
+<div class="container my-5 d-flex flex-column align-items-center justify-content-center text-center">
+<h1 class="text-center fw-semibold text-white" 
+        style="font-family: 'Poppins', sans-serif; 
+               font-size: 64px; 
+               font-style: normal; 
+               line-height: 74px; 
+               max-width: 823px;">
+        Películas Disponibles
+    </h1>
 
 @if (Model == null || !Model.Any())
 {
@@ -12,13 +19,93 @@
 }
 else
 {
-    <ul>
+    <div class="container">
+    <div class="row gx-4 gy-2">
         @foreach (var pelicula in Model)
         {
-            <li>
-                <a href="/Peliculas/Detalle/@pelicula.PeliculaId">@pelicula.Titulo</a>
-            </li>
+            <div class="col-md-4 d-flex justify-content-center">
+                <div class="card d-flex justify-content-center align-items-center position-relative" 
+                    style="width: 285px; 
+                           height: 270px; 
+                           flex-shrink: 0; 
+                           border-radius: 48px; 
+                           background: #FFF; 
+                           box-shadow: 0px 0px 63px 0px rgba(0, 0, 0, 0.30);">
+                    
+                    <!-- Sección de duración y género -->
+                    <div class="position-absolute" style="top: 18px; left: 25px; right: 15px; width: 80%;">
+                        <!-- Duración -->
+                        <div class="d-flex align-items-center gap-1" style="float: left;">
+                            <i class="bi bi-clock" style="font-size: 20px; color: #44464F;"></i>
+                            <span style="font-family: 'Poppins', sans-serif; font-size: 14px; color: #44464F;">
+                                @pelicula.Duracion
+                            </span>
+                        </div>
+
+                        <!-- Género -->
+                        <div style="float: right;">
+                            <span class="badge border border-secondary text-secondary" 
+                                style="font-family: 'Poppins', sans-serif; font-size: 14px; border-radius: 19.944px;">
+                                @pelicula.Genero
+                            </span>
+                        </div>
+                    </div>
+
+                    <!-- Contenido principal de la tarjeta -->
+                    <div class="card-body text-center" style="margin-top: 70px;">
+                        <h5 class="card-title" style="width: 206.538px; text-transform: uppercase; color: #1E1F22; text-align: center; font-family: 'Poppins', sans-serif; font-size: 23.933px; font-style: normal; font-weight: 700; line-height: 23.077px;">
+                            <a href="/Peliculas/Detalle/@pelicula.PeliculaId" style="color: #1E1F22; text-decoration: none;">
+                                @pelicula.Titulo
+                            </a>
+                        </h5>
+                        <p class="card-text" style="width: 213px; color: #44464F; text-align: center; font-family: 'Poppins', sans-serif; font-size: 16px; font-style: normal; font-weight: 500; line-height: normal;">
+                            @pelicula.Descripcion
+                        </p>
+                    </div>
+                </div>
+            </div>
         }
-    </ul>
+    </div>
+</div>
 }
-<a href="/Peliculas/Crear">Agregar Nueva Película</a>
+
+<div class="d-flex justify-content-center gap-3 mt-5">
+        <a style="text-decoration: none;" href="/Entradas/Reporte">
+            <button type="button" class="btn text-white d-flex align-items-center justify-content-center gap-2" 
+                style="display: flex; 
+                       font-family: 'Poppins', sans-serif;
+                       font-weight: bold;
+                       width: 250px; 
+                       padding: 16px 20px; 
+                       border-radius: 80px; 
+                       background: #FF1D45; 
+                       box-shadow: 0px 0px 11px 0px #FF1D45; 
+                       border: none; 
+                       color: white; 
+                       transition: all 0.3s ease;"
+                onmouseover="this.style.background='#FF4A68'; this.style.boxShadow='0px 0px 15px 2px #FF4A68';"
+                onmouseout="this.style.background='#FF1D45'; this.style.boxShadow='0px 0px 11px 0px #FF1D45';">
+                <i class="bi bi-file-earmark-bar-graph"></i> Reportes
+            </button>
+        </a>
+
+        <a style="text-decoration: none;" href="/Peliculas/Crear">
+            <button type="button" class="btn text-white d-flex align-items-center justify-content-center gap-2" 
+                style="display: flex; 
+                       font-family: 'Poppins', sans-serif;
+                       font-weight: bold;
+                       width: 250px; 
+                       padding: 16px 20px; 
+                       border-radius: 80px; 
+                       background: #FF1D45; 
+                       box-shadow: 0px 0px 11px 0px #FF1D45; 
+                       border: none; 
+                       color: white; 
+                       transition: all 0.3s ease;"
+                onmouseover="this.style.background='#FF4A68'; this.style.boxShadow='0px 0px 15px 2px #FF4A68';"
+                onmouseout="this.style.background='#FF1D45'; this.style.boxShadow='0px 0px 11px 0px #FF1D45';">
+                <i class="bi bi-plus-square"></i> Crear Película
+            </button>
+        </a>
+    </div>
+</div>

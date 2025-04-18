@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Infrastructure/proyecto.Infrastructure.csproj": {}
+    "/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/proyecto.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Domain/proyecto.Domain.csproj": {
+    "/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Domain/proyecto.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Domain/proyecto.Domain.csproj",
+        "projectUniqueName": "/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Domain/proyecto.Domain.csproj",
         "projectName": "proyecto.Domain",
-        "projectPath": "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Domain/proyecto.Domain.csproj",
+        "projectPath": "/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Domain/proyecto.Domain.csproj",
         "packagesPath": "/Users/rafaelaybar/.nuget/packages/",
-        "outputPath": "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Domain/obj/",
+        "outputPath": "/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rafaelaybar/.nuget/NuGet/NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Infrastructure/proyecto.Infrastructure.csproj": {
+    "/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/proyecto.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Infrastructure/proyecto.Infrastructure.csproj",
+        "projectUniqueName": "/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/proyecto.Infrastructure.csproj",
         "projectName": "proyecto.Infrastructure",
-        "projectPath": "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Infrastructure/proyecto.Infrastructure.csproj",
+        "projectPath": "/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/proyecto.Infrastructure.csproj",
         "packagesPath": "/Users/rafaelaybar/.nuget/packages/",
-        "outputPath": "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Infrastructure/obj/",
+        "outputPath": "/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rafaelaybar/.nuget/NuGet/NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Domain/proyecto.Domain.csproj": {
-                "projectPath": "/Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Domain/proyecto.Domain.csproj"
+              "/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Domain/proyecto.Domain.csproj": {
+                "projectPath": "/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Domain/proyecto.Domain.csproj"
               }
             }
           }
@@ -107,7 +107,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -118,6 +118,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",

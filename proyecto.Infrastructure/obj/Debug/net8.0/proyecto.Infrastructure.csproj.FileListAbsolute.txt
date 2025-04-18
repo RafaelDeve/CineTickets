@@ -16,3 +16,75 @@
 /Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Infrastructure/obj/Debug/net8.0/ref/proyecto.Infrastructure.dll
 /Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.runtimeconfig.json
 /Users/rafaelaybar/Desktop/ITLA/PROGRAMACIÓN II/PF_PII/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.genruntimeconfig.cache
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.deps.json
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.runtimeconfig.json
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.pdb
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Domain.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Domain.pdb
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.csproj.AssemblyReference.cache
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.AssemblyInfoInputs.cache
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.AssemblyInfo.cs
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.sourcelink.json
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.9B1E9D73.Up2Date
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/obj/Debug/net8.0/refint/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.pdb
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.genruntimeconfig.cache
+/Users/rafaelaybar/Downloads/PF_PII_fixed/proyecto.Infrastructure/obj/Debug/net8.0/ref/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.deps.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.runtimeconfig.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Domain.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Domain.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.csproj.AssemblyReference.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.AssemblyInfoInputs.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.AssemblyInfo.cs
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.sourcelink.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.9B1E9D73.Up2Date
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/obj/Debug/net8.0/refint/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.genruntimeconfig.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive/proyecto.Infrastructure/obj/Debug/net8.0/ref/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.deps.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.runtimeconfig.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Domain.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Domain.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.csproj.AssemblyReference.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.AssemblyInfoInputs.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.AssemblyInfo.cs
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.sourcelink.json
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.9B1E9D73.Up2Date
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/obj/Debug/net8.0/refint/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.genruntimeconfig.cache
+/Users/rafaelaybar/Desktop/ITLA/New/Zip archive 2/proyecto.Infrastructure/obj/Debug/net8.0/ref/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.deps.json
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.runtimeconfig.json
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Infrastructure.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Domain.dll
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/bin/Debug/net8.0/proyecto.Domain.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.csproj.AssemblyReference.cache
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.AssemblyInfoInputs.cache
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.AssemblyInfo.cs
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.sourcelink.json
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.9B1E9D73.Up2Date
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/obj/Debug/net8.0/refint/proyecto.Infrastructure.dll
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.pdb
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/obj/Debug/net8.0/proyecto.Infrastructure.genruntimeconfig.cache
+/Users/rafaelaybar/Desktop/ITLA/New/CINETICKETING/proyecto.Infrastructure/obj/Debug/net8.0/ref/proyecto.Infrastructure.dll

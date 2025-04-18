@@ -3,40 +3,114 @@
     ViewData["Title"] = "Crear Película";
 }
 
-<h1>Crear Nueva Película</h1>
+<div class="container my-5">
+    <!-- Título -->
+    <h1 class="text-center fw-semibold text-white" 
+        style="font-family: 'Poppins', sans-serif; 
+               font-size: 48px; 
+               font-style: normal; 
+               line-height: 58px; 
+               margin-bottom: 30px;">
+        Crear Nueva Película
+    </h1>
 
-@if (!ViewData.ModelState.IsValid)
-{
-    <div class="alert alert-danger">
-        <ul>
-            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
-            {
-                <li>@error.ErrorMessage</li>
-            }
-        </ul>
-    </div>
-}
+    <!-- Formulario -->
+    <form method="post" asp-action="Crear" 
+          class="mx-auto" 
+          style="width: 500px; 
+                 padding: 20px; 
+                 border-radius: 16px; 
+                 background: #FFF; 
+                 box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.15);">
+        
+        <!-- Campo Título -->
+        <div class="mb-3">
+            <label for="Titulo" 
+                   style="font-family: 'Poppins', sans-serif; 
+                          font-size: 16px; 
+                          color: #1E1F22;">
+                Título
+            </label>
+            <input type="text" id="Titulo" name="Titulo" 
+                   class="form-control" 
+                   style="border-radius: 10px; font-family: 'Poppins', sans-serif; font-size: 16px;" 
+                   required />
+        </div>
 
-<form method="post">
-    <div class="form-group">
-        <label for="Titulo">Título</label>
-        <input type="text" id="Titulo" name="Titulo" class="form-control" value="@Model.Titulo" required />
-    </div>
-    <div class="form-group">
-        <label for="Descripcion">Descripción</label>
-        <input type="text" id="Descripcion" name="Descripcion" class="form-control" value="@Model.Descripcion" required />
-    </div>
-    <div class="form-group">
-        <label for="Genero">Género</label>
-        <input type="text" id="Genero" name="Genero" class="form-control" value="@Model.Genero" required />
-    </div>
-    <div class="form-group">
-        <label for="Duracion">Duración (en minutos)</label>
-        <input type="number" id="Duracion" name="Duracion" class="form-control" value="@Model.Duracion.TotalMinutes" required />
-    </div>
-    <div class="form-group">
-        <label for="FechaEstreno">Fecha de Estreno</label>
-        <input type="date" id="FechaEstreno" name="FechaEstreno" class="form-control" value="@Model.FechaEstreno.ToString("yyyy-MM-dd")" required />
-    </div>
-    <button type="submit" class="btn btn-primary">Crear</button>
-</form>
+        <!-- Campo Descripción -->
+        <div class="mb-3">
+            <label for="Descripcion" 
+                   style="font-family: 'Poppins', sans-serif; 
+                          font-size: 16px; 
+                          color: #1E1F22;">
+                Descripción
+            </label>
+            <textarea id="Descripcion" name="Descripcion" 
+                      class="form-control" 
+                      style="border-radius: 10px; font-family: 'Poppins', sans-serif; font-size: 16px;" 
+                      required></textarea>
+        </div>
+
+        <!-- Campo Género -->
+        <div class="mb-3">
+            <label for="Genero" 
+                   style="font-family: 'Poppins', sans-serif; 
+                          font-size: 16px; 
+                          color: #1E1F22;">
+                Género
+            </label>
+            <input type="text" id="Genero" name="Genero" 
+                   class="form-control" 
+                   style="border-radius: 10px; font-family: 'Poppins', sans-serif; font-size: 16px;" 
+                   required />
+        </div>
+
+        <!-- Campo Duración -->
+        <div class="mb-3">
+            <label for="Duracion" 
+                   style="font-family: 'Poppins', sans-serif; 
+                          font-size: 16px; 
+                          color: #1E1F22;">
+                Duración (hh:mm:ss)
+            </label>
+            <input type="text" id="Duracion" name="Duracion" 
+                   class="form-control" 
+                   style="border-radius: 10px; font-family: 'Poppins', sans-serif; font-size: 16px;" 
+                   required />
+        </div>
+
+        <!-- Campo Fecha de Estreno -->
+        <div class="mb-3">
+            <label for="FechaEstreno" 
+                   style="font-family: 'Poppins', sans-serif; 
+                          font-size: 16px; 
+                          color: #1E1F22;">
+                Fecha de Estreno
+            </label>
+            <input type="date" id="FechaEstreno" name="FechaEstreno" 
+                   class="form-control" 
+                   style="border-radius: 10px; font-family: 'Poppins', sans-serif; font-size: 16px;" 
+                   required />
+        </div>
+
+        <!-- Botón Crear -->
+        <div class="text-center">
+            <button type="submit" 
+                    class="btn text-white" 
+                    style="width: 100%; 
+                           padding: 12px 20px; 
+                           font-family: 'Poppins', sans-serif; 
+                           font-weight: bold; 
+                           border-radius: 80px; 
+                           background: #FF1D45; 
+                           box-shadow: 0px 0px 11px 0px #FF1D45; 
+                           border: none; 
+                           color: white; 
+                           transition: all 0.3s ease;"
+                    onmouseover="this.style.background='#FF4A68'; this.style.boxShadow='0px 0px 15px 2px #FF4A68';"
+                    onmouseout="this.style.background='#FF1D45'; this.style.boxShadow='0px 0px 11px 0px #FF1D45';">
+                Crear
+            </button>
+        </div>
+    </form>
+</div>

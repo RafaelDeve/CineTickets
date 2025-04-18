@@ -17,7 +17,7 @@ namespace Proyecto.Infrastructure.Persistence
                 .Build();
 
             var optionsBuilder = new DbContextOptionsBuilder<ApplicationDbContext>();
-            optionsBuilder.UseSqlServer(configuration.GetConnectionString("CineDbConnection"));
+            optionsBuilder.UseSqlite(configuration.GetConnectionString("Data Source=cine.db"));
 
             return new ApplicationDbContext(optionsBuilder.Options);
         }

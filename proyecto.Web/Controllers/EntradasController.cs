@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Proyecto.Application.Services;
+using Proyecto.Domain.Entities;
+
 
 public class EntradasController : Controller
     {
@@ -11,6 +13,17 @@ public class EntradasController : Controller
             _entradaService = entradaService;
             _proyeccionService = proyeccionService;
             _usuarioService = usuarioService;
+        }
+
+        public IActionResult Reporte()
+        {
+            var entradas = _entradaService.ObtenerTodasLasEntradas();
+            if (entradas == null || !entradas.Any())
+            {
+                ViewData["Mensaje"] = "No se encontraron entradas.";
+                entradas = Enumerable.Empty<Entrada>();
+            }
+            return View(entradas);
         }
 
         public IActionResult Comprar(int proyeccionId)

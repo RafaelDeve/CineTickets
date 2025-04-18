@@ -3,8 +3,100 @@
     ViewData["Title"] = "Detalle de Película";
 }
 
-<h1>@Model.Titulo</h1>
-<p>@Model.Descripcion</p>
-<p>Duración: @Model.Duracion</p>
-<a href="/Peliculas/Proyecciones?peliculaId=@Model.PeliculaId">Ver Proyecciones</a>
+<div class="container my-5">
+    <div class="card d-flex justify-content-center align-items-center position-relative" 
+        style="width: 100%; 
+               max-width: 600px; 
+               padding: 20px; 
+               border-radius: 48px; 
+               background: #FFF; 
+               box-shadow: 0px 0px 63px 0px rgba(0, 0, 0, 0.30);">
+        <!-- Título de la Película -->
+        <h1 class="text-center" style="font-family: 'Poppins', sans-serif; 
+                                       font-size: 32px; 
+                                       font-weight: 700; 
+                                       color: #1E1F22;">
+            @Model.Titulo
+        </h1>
 
+        <!-- Descripción -->
+        <p class="text-center" style="font-family: 'Poppins', sans-serif; 
+                                      font-size: 18px; 
+                                      color: #44464F; 
+                                      margin-top: 10px;">
+            @Model.Descripcion
+        </p>
+
+        <!-- Duración -->
+        <p class="text-center" style="font-family: 'Poppins', sans-serif; 
+                                      font-size: 16px; 
+                                      color: #44464F; 
+                                      margin-top: 10px;">
+            <i class="bi bi-clock" style="font-size: 16px; color: #44464F; margin-right: 5px;"></i>
+            Duración: @Model.Duracion
+        </p>
+
+        <!-- Enlaces -->
+        <div class="d-flex justify-content-between w-100 mt-4" style="gap: 10px;">
+
+            <a style="text-decoration: none;" href="/Peliculas/Proyecciones?peliculaId=@Model.PeliculaId">
+                <button type="button" class="btn text-white d-flex align-items-center justify-content-center gap-2" 
+                    style="display: flex; 
+                        font-family: 'Poppins', sans-serif;
+                        font-weight: bold;
+                        width: 250px; 
+                        padding: 16px 20px; 
+                        border-radius: 80px; 
+                        background: #FF1D45; 
+                        box-shadow: 0px 0px 11px 0px #FF1D45; 
+                        border: none; 
+                        color: white; 
+                        transition: all 0.3s ease;"
+                    onmouseover="this.style.background='#FF4A68'; this.style.boxShadow='0px 0px 15px 2px #FF4A68';"
+                    onmouseout="this.style.background='#FF1D45'; this.style.boxShadow='0px 0px 11px 0px #FF1D45';">
+                    <i class="bi bi-eye"></i> Ver Proyecciones
+                </button>
+            </a>
+
+            <a style="text-decoration: none;" href="/Peliculas/Editar?id=@Model.PeliculaId">
+                <button type="button" class="btn text-white d-flex align-items-center justify-content-center gap-2" 
+                    style="display: flex; 
+                        font-family: 'Poppins', sans-serif;
+                        font-weight: bold;
+                        width: 250px; 
+                        padding: 16px 20px; 
+                        border-radius: 80px; 
+                        background: #FF1D45; 
+                        box-shadow: 0px 0px 11px 0px #FF1D45; 
+                        border: none; 
+                        color: white; 
+                        transition: all 0.3s ease;"
+                    onmouseover="this.style.background='#FF4A68'; this.style.boxShadow='0px 0px 15px 2px #FF4A68';"
+                    onmouseout="this.style.background='#FF1D45'; this.style.boxShadow='0px 0px 11px 0px #FF1D45';">
+                    <i class="bi bi-pen"></i> Editar Película
+                </button>
+            </a>
+        </div>
+
+        <!-- Botón de Eliminar -->
+        <form method="post" action="/Peliculas/Eliminar" class="w-100 mt-4">
+            <input type="hidden" name="id" value="@Model.PeliculaId" />
+            <button type="summit" class="btn text-white d-flex align-items-center justify-content-center gap-2 w-100" 
+                    style="display: flex; 
+                        font-family: 'Poppins', sans-serif;
+                        font-weight: bold;
+                        width: 250px; 
+                        padding: 16px 20px; 
+                        border-radius: 80px; 
+                        background: #FF1D45; 
+                        box-shadow: 0px 0px 11px 0px #FF1D45; 
+                        border: none; 
+                        color: white; 
+                        transition: all 0.3s ease;"
+                    onmouseover="this.style.background='#FF4A68'; this.style.boxShadow='0px 0px 15px 2px #FF4A68';"
+                    onmouseout="this.style.background='#FF1D45'; this.style.boxShadow='0px 0px 11px 0px #FF1D45';">
+                    <i class="bi bi-trash3"></i> Eliminar Película
+                </button>
+        </form>
+    </div>
+</div>
