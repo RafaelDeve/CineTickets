@@ -1,12 +1,4 @@
-# test_peliculas_create_fixdate.py
-"""
-Prueba “Create Película” robusta:
 
-1.  Abre  /Peliculas/Crear
-2.  Rellena los campos (fecha vía JavaScript para evitar error de formato)
-3.  Screenshot  before  +  after  (y  validation  si falla)
-4.  Verifica que el nuevo título está en el listado
-"""
 
 import os, time, unicodedata, pytest
 from datetime import datetime
@@ -14,9 +6,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 
-# ─── CONFIGURA ──────────────────────────────────────────────────────────
-BASE_URL = "http://localhost:5219"      # host y puerto de tu app
-# ────────────────────────────────────────────────────────────────────────
+BASE_URL = "http://localhost:5219"      
 
 
 def normalizar(texto: str) -> str:
@@ -25,7 +15,7 @@ def normalizar(texto: str) -> str:
 
 @pytest.fixture(scope="session")
 def driver():
-    drv = webdriver.Chrome()            # Selenium Manager gestiona el driver
+    drv = webdriver.Chrome()           
     drv.maximize_window()
     yield drv
     drv.quit()
@@ -33,19 +23,18 @@ def driver():
 
 def test_create_pelicula(driver):
     ts      = datetime.now().strftime("%H%M%S")
-    today   = datetime.now().strftime("%Y-%m-%d")        # yyyy‑MM‑dd
+    today   = datetime.now().strftime("%Y-%m-%d")        
     TITULO  = f"Película Selenium {ts}"
     GENERO  = "Acción"
-    DURACION= "02"                                        # minutos que tu backend acepta
+    DURACION= "02"                                     
 
     CREATE_URL = f"{BASE_URL}/Peliculas/Crear"
     LIST_URL   = f"{BASE_URL}/Peliculas"
 
-    # 1) Abrir formulario
     driver.get(CREATE_URL)
     time.sleep(1)
 
-    # 2) Completar campos
+    
     driver.find_element(By.ID, "Titulo").send_keys(TITULO)
     driver.find_element(By.ID, "Descripcion").send_keys("Descripción automática.")
     driver.find_element(By.ID, "Genero").send_keys(GENERO)
